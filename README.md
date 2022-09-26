@@ -1,2 +1,2 @@
-# Video-background-
-How to add a video background with html & css.
+# Web-calculator-
+How to make a Web calculator with html & css.
